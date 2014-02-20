@@ -1,0 +1,6 @@
+PWD /Users/jesus/Documents/PROCESSING/PIC_COM/oled_sim
+INPUT /usr/local/texlive/2013/texmf.cnf
+INPUT /usr/local/texlive/2013/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2013/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/jesus/Documents/Processing/PIC_COM/oled_sim/oled_sim.pde
+OUTPUT /Users/jesus/Documents/Processing/PIC_COM/oled_sim/oled_sim.log
